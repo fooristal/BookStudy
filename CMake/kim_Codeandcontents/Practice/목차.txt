@@ -5,3 +5,6 @@ Chapter 4 CMAKE 사용하기
 -- 라이브러리 생성하기					ch04/static_lib
 								ch04/shared_lib
 -- 라이브러리를 사용하여 실행 파일 생성하기	ch04/build_dir
+
+- 4.2 서브 디렉터리
+-- 서브 디렉터리 처리					ch04/subdir
