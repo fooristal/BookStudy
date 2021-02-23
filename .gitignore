@@ -11,3 +11,7 @@ CMakeFiles/
 *.filters
 *.cmake
 *.sln
+.vs/
+[Dd]ebug/
+*.dir/
+x64/
