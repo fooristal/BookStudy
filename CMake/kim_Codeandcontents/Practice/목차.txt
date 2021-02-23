@@ -8,3 +8,4 @@ Chapter 4 CMAKE 사용하기
 
 - 4.2 서브 디렉터리
 -- 서브 디렉터리 처리					ch04/subdir
+-- 파일을 시스템에 설치하기				ch04/install
