@@ -2,4 +2,5 @@ Chapter 4 CMAKE 사용하기
 - 4.1 CMAKE를 사용한 빌드
 -- 하나의 소스 파일				ch04/4-1
 -- 복수의 소스 파일
--- 라이브러리 생성하기				ch04/4-2
+-- 라이브러리 생성하기				ch04/static_lib
+							ch04/shared_lib
