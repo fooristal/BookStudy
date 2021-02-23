@@ -2,6 +2,11 @@
 [Dd]ownload/
 [Dd]ata/
 [Bb]uild/
+bin/
+include/
+*.dll
+*.lib
+*.exe
 
 # cmake
 CMakeCache.txt
