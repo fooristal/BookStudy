@@ -1,6 +1,7 @@
 # user data
 [Dd]ownload/
 [Dd]ata/
+[Bb]uild/
 
 # cmake
 CMakeCache.txt
