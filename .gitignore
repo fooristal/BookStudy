@@ -1,2 +1,13 @@
-[Dd]ownload
-[Dd]ata
+# user data
+[Dd]ownload/
+[Dd]ata/
+
+# cmake
+CMakeCache.txt
+CMakeFiles/
+
+# visual studio
+*.vcxproj
+*.filters
+*.cmake
+*.sln
