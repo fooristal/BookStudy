@@ -7,6 +7,8 @@ include/
 *.dll
 *.lib
 *.exe
+[Bb]uild_[Dd]ebug/
+
 
 # cmake
 CMakeCache.txt
