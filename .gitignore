@@ -8,6 +8,9 @@ include/
 *.lib
 *.exe
 [Bb]uild_[Dd]ebug/
+*.ninja*
+*.ilk
+*.pdb
 
 
 # cmake
