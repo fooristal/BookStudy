@@ -1,5 +1,9 @@
 # user data
 [Dd]ownload/
+*.xlsx
+*.pdf
+
+# build output
 [Dd]ata/
 [Bb]uild/
 bin/
@@ -7,6 +11,11 @@ include/
 *.dll
 *.lib
 *.exe
+[Bb]uild_[Dd]ebug/
+*.ninja*
+*.ilk
+*.pdb
+
 
 # cmake
 CMakeCache.txt

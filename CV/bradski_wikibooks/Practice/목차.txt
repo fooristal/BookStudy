@@ -1,0 +1,15 @@
+2 OpenCV 소개
+ - 첫 번째 프로그램 - 이미지 출력		-> ImageOut
+ - 두 번째 프로그램 - 비디오		-> VideoOut
+ - 재생 위치 이동하기				-> TrackBar
+ - 간단한 변환					-> GaussianBlur
+ - 별로 단순하지 않은 변환			-> DownSampling
+							-> CannyEdge
+							-> PyrCanny
+							-> 
+ - 카메라 입력					-> CamInput
+18 카메라 모델과 캘리브레이션
+ - 모두 한꺼번에 캘리브레이션하기		-> CamCalib
+19 투영과 3차원 비전
+ - 3차원 자세 추정
+ -- 단일 카메라를 이용한 자세 추정	-> Exam_solvePnP
