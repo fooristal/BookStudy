@@ -1,5 +1,9 @@
 # user data
 [Dd]ownload/
+*.xlsx
+*.pdf
+
+# build output
 [Dd]ata/
 [Bb]uild/
 bin/
